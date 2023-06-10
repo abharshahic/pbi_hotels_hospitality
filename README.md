@@ -26,6 +26,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src="https://github.com/abharshahic/pbi_hotels_hospitality/blob/main/res/hospitality_data_model.png" width="600">
 </p>
 
+## Dashboard
+<p align="center">
+    <img src="https://github.com/abharshahic/pbi_hotels_hospitality/blob/main/hospitality_dashboard.png" width="600">
+</p>
+
 ## Key Learnings
 - Loading data in PowerBI
 - Data cleaning and transformation in Power Query
@@ -34,3 +39,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Learned KPIs related to hospitality domain - RevPAR, ADR, DRR%, DSRN, Realisation%, DURN, DBRN
 
 ## Insights from Dashboard
+- Mumbai generates the highest revenue (660 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 316 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- Weekend and Weekday generate almost similar RevPAR and ADR which suggests that the pricing scheme is rather static  
+- Elite type rooms generated the most revenue while standard rooms generated lowest
