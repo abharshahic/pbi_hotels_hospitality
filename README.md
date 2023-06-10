@@ -1,7 +1,7 @@
 # AtliQ Hospitality Analysis - PowerBI
 Analysis for AtliQ Grands (fictional).
 This analysis in hospitality domain was done with data provided by [codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge).
-
+Live Dashboard is available [here]()
 
 ### Problem statement
 
